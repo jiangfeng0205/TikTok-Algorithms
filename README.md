@@ -1,21 +1,9 @@
 # TikTok-Algorithms
-All TikTok Algorithms And Encryptions
 - Algorithms :
   - X-Gorgon
   - X-Ladon
   - X-Khronos
   - X-Argus
-  - X-Bogus
-  - Mssdk
-  - ttencrypt
-  - msToken
-  - Verify-fp
-  - s_v_web_id
-  - ttwid
-  - And More
-- Devices :
-  - Web
-  - Android
-  - iOS
+  - X-ss-req-ticket
 - Contact :
   - TeleGram : https://t.me/WHI3PER
